@@ -5,3 +5,11 @@ It follows these steps as outlined in the assignment brief
 3)Replaces activity IDs with descriptive activity names.
 4)Labels the dataset with descriptive variable names.
 5) Creates a second tidy dataset containing the average of each variable for each activity and each subject.
+
+The variables are outlined below
+subject - ID code representing participant
+activity - walking, walking_upstairs, walking_downstairs, sitting, standing, laying
+Signal source - Time, Frequency
+Sensor Types - Accelerometer, Gyroscope
+Signal Components - Body, Gravity, Magnitude
+
